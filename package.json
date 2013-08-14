@@ -1,0 +1,24 @@
+{
+  "name": "js-kata-setup",
+  "version": "0.0.0",
+  "description": "My setup for doing TDD katas in JavaScript",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha --reporter spec"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/c089/js-kata-setup.git"
+  },
+  "keywords": [
+    "kata",
+    "tdd",
+    "testing"
+  ],
+  "author": "Christoph Neuroth <christoph.neuroth@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "mocha": "1.12.0",
+    "chai": "1.7.2"
+  }
+}
