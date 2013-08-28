@@ -9,6 +9,10 @@ lib-cov
 *.pid
 *.gz
 
+.idea/compiler.xml
+.idea/gradle.xml
+.idea/workspace.xml
+
 pids
 logs
 results
