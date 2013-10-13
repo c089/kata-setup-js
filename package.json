@@ -1,5 +1,5 @@
 {
-  "name": "js-kata-setup",
+  "name": "kata-setup-js",
   "version": "0.0.0",
   "description": "My setup for doing TDD katas in JavaScript",
   "main": "index.js",
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/c089/js-kata-setup.git"
+    "url": "https://github.com/c089/kata-setup-js.git"
   },
   "keywords": [
     "kata",
