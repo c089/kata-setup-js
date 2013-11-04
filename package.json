@@ -18,7 +18,7 @@
   "author": "Christoph Neuroth <christoph.neuroth@gmail.com>",
   "license": "MIT",
   "dependencies": {
-    "mocha": "1.13.0",
+    "mocha": "1.14.0",
     "chai": "1.8.1"
   }
 }
