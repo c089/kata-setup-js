@@ -12,8 +12,8 @@ groups of more people during randori-style dojo sessions.
 Instructions:
 
 * install dependencies: `npm install`
-* run tests on each file change: `mocha --reporter min --watch`
-* print the specification: `mocha --reporter spec`
+* run tests on each file change: `npm run-script watch`
+* print the specification: `npm test`
 
 [david-img]: https://david-dm.org/c089/kata-setup-js.png
 [david]: https://david-dm.org/c089/kata-setup-js

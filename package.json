@@ -4,7 +4,8 @@
   "description": "My setup for doing TDD katas in JavaScript",
   "main": "index.js",
   "scripts": {
-    "test": "mocha --reporter spec"
+    "test": "mocha --reporter spec",
+    "watch": "mocha --reporter min --watch --recursive test/"
   },
   "repository": {
     "type": "git",
