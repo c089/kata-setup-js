@@ -19,9 +19,9 @@
   "author": "Christoph Neuroth <christoph.neuroth@gmail.com>",
   "license": "MIT",
   "dependencies": {
-    "mocha": "1.20.0",
-    "sinon": "1.10.1",
-    "chai": "1.9.1",
-    "sinon-chai": "2.5.0"
+    "mocha": "^2.0.1",
+    "sinon": "^1.12.1",
+    "chai": "^1.10.0",
+    "sinon-chai": "2.6.0"
   }
 }
