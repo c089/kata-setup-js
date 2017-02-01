@@ -3,6 +3,8 @@
 kata-setup-js
 =============
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/c089/kata-setup-js.svg)](https://greenkeeper.io/)
+
 My setup for doing TDD katas in JavaScript.
 
 There are also some solutions available, each on it's own branch. Some of those
