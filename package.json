@@ -4,7 +4,7 @@
   "description": "My setup for doing TDD katas in JavaScript",
   "main": "index.js",
   "scripts": {
-    "test": "mocha --reporter spec",
+    "test": "eslint . && mocha --reporter spec",
     "watch": "mocha --reporter min --watch --recursive test/"
   },
   "repository": {
@@ -20,6 +20,7 @@
   "license": "MIT",
   "dependencies": {
     "chai": "3.5.0",
+    "eslint": "3.14.1",
     "mocha": "3.2.0"
   }
 }
