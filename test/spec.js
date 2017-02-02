@@ -1,5 +1,4 @@
-var chai = require('chai'),
-    expect = chai.expect;
+const {expect} = require('chai');
 
 describe('the program', function () {
     it('can handle the truth', function () {
